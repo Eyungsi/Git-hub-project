@@ -10,4 +10,6 @@ resource "aws_lightsail_instance" "terraform-server" {
     Team = "Cloud"
   }
 }
+resource "aws_security_group" "jude" {
 
+  }
